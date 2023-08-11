@@ -1,0 +1,92 @@
+[
+  {
+    "element": "AC",
+    "class": "button button-ac",
+    "id": "clear"
+  },
+  {
+    "element": "/",
+    "class": "button button-operator",
+    "id": "divide"
+  },
+
+  {
+    "element": "*",
+    "class": "button button-operator",
+    "id": "multiply"
+  },
+  {
+    "element": "7",
+    "class": "button button-number",
+    "id": "seven"
+  },
+  {
+    "element": "8",
+    "class": "button button-number",
+    "id": "eight"
+  },
+
+  {
+    "element": "9",
+    "class": "button button-number",
+    "id": "nine"
+  },
+  {
+    "element": "-",
+    "class": "button button-operator",
+    "id": "subtract"
+  },
+  {
+    "element": "4",
+    "class": "button button-number",
+    "id": "four"
+  },
+  {
+    "element": "5",
+    "class": "button button-number",
+    "id": "five"
+  },
+  {
+    "element": "6",
+    "class": "button button-number",
+    "id": "six"
+  },
+  {
+    "element": "+",
+    "class": "button button-operator",
+    "id": "add"
+  },
+  {
+    "element": "1",
+    "class": "button button-number",
+    "id": "one"
+  },
+  {
+    "element": "2",
+    "class": "button button-number",
+    "id": "two"
+  },
+  {
+    "element": "3",
+    "class": "button button-number",
+    "id": "three"
+  },
+
+  {
+    "element": "=",
+    "class": "button button-equal",
+    "id": "equals"
+  },
+
+  {
+    "element": "0",
+    "class": "button button-number",
+    "id": "zero"
+  },
+
+  {
+    "element": ".",
+    "class": "button button-decimal",
+    "id": "decimal"
+  }
+]

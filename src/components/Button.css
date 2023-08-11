@@ -1,0 +1,31 @@
+.button {
+  color: white;
+  outline: 0;
+   border: 1px solid black; 
+   border-style: inset;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button:hover{
+    color: black;
+    border-color: whitesmoke ;
+}
+.button-number,.button-decimal {
+  background-color: #4d4d4d;
+}
+.button-operator {
+  background-color: #666666;
+}
+.button-ac {
+  background-color: #aa3338;
+  grid-column: span 2;
+}
+.button-equal {
+  background-color: #034565;
+}
+#zero{
+    grid-column: span 2;
+}
+#equals{
+    grid-row: span 2;
+}
